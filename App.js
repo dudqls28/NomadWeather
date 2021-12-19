@@ -63,7 +63,7 @@ export default function App() {
                 alignItems : "center" ,
                 width:"100%",
                 justifyContent : "space-between",
-                
+                //
                  }}>
                   <Text style={styles.temp}>
                     {parseFloat(day.temp.day).toFixed(1)}
